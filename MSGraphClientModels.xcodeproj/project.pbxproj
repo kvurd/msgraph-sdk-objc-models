@@ -9747,7 +9747,7 @@
 		E52F5157FF3B199D353E92A5 /* BuildFile in Headers */ = {isa = PBXBuildFile; settings = {ATTRIBUTES = (Public, ); }; };
 		E536A979DEF0DB7217CC9613 /* BuildFile in Sources */ = {isa = PBXBuildFile; };
 		E540F204CD0F84D0E377D039 /* BuildFile in Sources */ = {isa = PBXBuildFile; };
-		E546E90721F9ABDE003AA8A8 /* MSDuration.h in Headers */ = {isa = PBXBuildFile; fileRef = E546E90521F9ABDD003AA8A8 /* MSDuration.h */; };
+		E546E90721F9ABDE003AA8A8 /* MSDuration.h in Headers */ = {isa = PBXBuildFile; fileRef = E546E90521F9ABDD003AA8A8 /* MSDuration.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E546E90821F9ABDE003AA8A8 /* MSDuration.m in Sources */ = {isa = PBXBuildFile; fileRef = E546E90621F9ABDE003AA8A8 /* MSDuration.m */; };
 		E546E90A21FAF999003AA8A8 /* MSDurationTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E546E90921FAF999003AA8A8 /* MSDurationTests.m */; };
 		E548E0B956345E0CEEAF3F70 /* BuildFile in Sources */ = {isa = PBXBuildFile; };
@@ -9776,12 +9776,12 @@
 		E5E0C63D21F1F62800737CDF /* MSDate.m in Sources */ = {isa = PBXBuildFile; fileRef = E5E0C0A621F1F62200737CDF /* MSDate.m */; };
 		E5E0C63E21F1F62800737CDF /* MSTimeOfDay.m in Sources */ = {isa = PBXBuildFile; fileRef = E5E0C0A721F1F62200737CDF /* MSTimeOfDay.m */; };
 		E5E0C63F21F1F62800737CDF /* MSCollection.m in Sources */ = {isa = PBXBuildFile; fileRef = E5E0C0A821F1F62200737CDF /* MSCollection.m */; };
-		E5E0C64021F1F62800737CDF /* MSObject.h in Headers */ = {isa = PBXBuildFile; fileRef = E5E0C0A921F1F62200737CDF /* MSObject.h */; };
-		E5E0C64121F1F62800737CDF /* NSDate+MSSerialization.h in Headers */ = {isa = PBXBuildFile; fileRef = E5E0C0AA21F1F62200737CDF /* NSDate+MSSerialization.h */; };
+		E5E0C64021F1F62800737CDF /* MSObject.h in Headers */ = {isa = PBXBuildFile; fileRef = E5E0C0A921F1F62200737CDF /* MSObject.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E5E0C64121F1F62800737CDF /* NSDate+MSSerialization.h in Headers */ = {isa = PBXBuildFile; fileRef = E5E0C0AA21F1F62200737CDF /* NSDate+MSSerialization.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E5E0C64221F1F62800737CDF /* MSObject.m in Sources */ = {isa = PBXBuildFile; fileRef = E5E0C0AB21F1F62200737CDF /* MSObject.m */; };
-		E5E0C64321F1F62800737CDF /* MSCollection.h in Headers */ = {isa = PBXBuildFile; fileRef = E5E0C0AC21F1F62200737CDF /* MSCollection.h */; };
-		E5E0C64421F1F62800737CDF /* MSTimeOfDay.h in Headers */ = {isa = PBXBuildFile; fileRef = E5E0C0AD21F1F62200737CDF /* MSTimeOfDay.h */; };
-		E5E0C64521F1F62800737CDF /* MSDate.h in Headers */ = {isa = PBXBuildFile; fileRef = E5E0C0AE21F1F62200737CDF /* MSDate.h */; };
+		E5E0C64321F1F62800737CDF /* MSCollection.h in Headers */ = {isa = PBXBuildFile; fileRef = E5E0C0AC21F1F62200737CDF /* MSCollection.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E5E0C64421F1F62800737CDF /* MSTimeOfDay.h in Headers */ = {isa = PBXBuildFile; fileRef = E5E0C0AD21F1F62200737CDF /* MSTimeOfDay.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E5E0C64521F1F62800737CDF /* MSDate.h in Headers */ = {isa = PBXBuildFile; fileRef = E5E0C0AE21F1F62200737CDF /* MSDate.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E5E0C64621F1F62800737CDF /* NSDate+MSSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = E5E0C0AF21F1F62200737CDF /* NSDate+MSSerialization.m */; };
 		E5E0CBD921F1F8D100737CDF /* NSDate+MSSerializationTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E5E0CBD421F1F8D100737CDF /* NSDate+MSSerializationTests.m */; };
 		E5E0CBDA21F1F8D100737CDF /* MSObjectTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E5E0CBD521F1F8D100737CDF /* MSObjectTests.m */; };
