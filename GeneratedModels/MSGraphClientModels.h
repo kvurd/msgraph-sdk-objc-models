@@ -5,6 +5,7 @@
 #import "MSDate.h"
 #import "MSTimeOfDay.h"
 #import "MSDuration.h"
+#import "MSCollection.h"
 #import "MSGraphRiskLevel.h"
 #import "MSGraphAppliedConditionalAccessPolicyResult.h"
 #import "MSGraphConditionalAccessStatus.h"
